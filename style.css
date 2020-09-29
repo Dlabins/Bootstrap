@@ -4,3 +4,15 @@
 .Submitbtn {
 text-align: center;
 }
+.form-group {
+    color:black;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.nav-link {
+    font-family: 'Bebas Neue', cursive;
+}
+.navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
