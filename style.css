@@ -18,10 +18,24 @@ text-align: center;
 }
 .card {
     font-family: 'Bebas Neue', cursive;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
 }
 .row {
     font-family: 'Bebas Neue', cursive;
 }
 p {
     font-size: 25px;
+}
+.card-body{
+    border-style: groove;
+    border-color: black;
+}
+.img {
+    border-style: groove;
+    border-color:black;
+    border-width: 5px;
+}
+
+h1 {
+    text-align: center;
 }
