@@ -18,7 +18,9 @@ text-align: center;
 }
 .card {
     font-family: 'Bebas Neue', cursive;
-    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,48,253,1) 31%, rgba(252,176,69,1) 100%);
+    
 }
 .row {
     font-family: 'Bebas Neue', cursive;
@@ -39,3 +41,6 @@ p {
 h1 {
     text-align: center;
 }
+
+@media screen and (max-height: 768px)
+@media screen and (max-width: 480px)
