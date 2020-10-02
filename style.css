@@ -53,7 +53,15 @@ h1 {
 body{
     background-image: url("https://www.siarza.com/wp-content/uploads/2017/12/webplunder-background-image-technology-online-website-solutions.jpg");
 }
+#foot {
+    position: absolute;
+    right: 0;bottom:0;left:0;
+  }
+  
+footer{
+text-align:center;
+  }
 
-@media screen and (max-width: 768px){
+  @media screen and (max-width: 768px){
     
 }
