@@ -1,6 +1,7 @@
-#portfolioheader{
-    text-align: center;
-    font-weight: bold;
+.text-center{
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
 }
 #portpara{
     text-align: center;
