@@ -1,4 +1,11 @@
-
+#portfolioheader{
+    text-align: center;
+    font-weight: bold;
+}
+#portpara{
+    text-align: center;
+    font-size: 20px;
+}
 
 .form-group{
     padding:40px;

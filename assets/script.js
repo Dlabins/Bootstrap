@@ -8,3 +8,13 @@ function visitProject(){
 function visitPassword(){
     window.location = "https://dlabins.github.io/PasswordGenerator/"
 }
+function visitPasswordgithub(){
+    window.location = "https://github.com/Dlabins/PasswordGenerator"
+}
+function visitCodegithub(){
+    window.location = "https://github.com/Dlabins/Code-Quiz"
+}
+function visitProjectgithub(){
+    window.location = "https://github.com/shannonquinn91/Drury-Lane-Sweets"
+}
+
