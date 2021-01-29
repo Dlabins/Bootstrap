@@ -5,11 +5,11 @@ function visitCodequiz(){
 function visitProject(){
     window.location = "https://shannonquinn91.github.io/Drury-Lane-Sweets/index.html"
 }
-function visitPassword(){
-    window.location = "https://dlabins.github.io/PasswordGenerator/"
+function visitProject2(){
+    window.location = "https://eddiephi-plots-of-gold.herokuapp.com/"
 }
-function visitPasswordgithub(){
-    window.location = "https://github.com/Dlabins/PasswordGenerator"
+function visitProject2github(){
+    window.location = "https://github.com/EddiePhi/Gardening-App"
 }
 function visitCodegithub(){
     window.location = "https://github.com/Dlabins/Code-Quiz"
